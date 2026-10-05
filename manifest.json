@@ -1,0 +1,18 @@
+{
+  "name": "AHSAN x NOVA TOOLS",
+  "short_name": "AN Tools",
+  "description": "Premium digital workspace — Established 2015",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02060d",
+  "theme_color": "#0aa8ff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%23082943'/><text x='256' y='340' font-size='260' font-weight='bold' fill='%2325d2ff' text-anchor='middle' font-family='Arial'>AN</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
