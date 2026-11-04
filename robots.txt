@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-
-Sitemap: https://ahsan-x-nova-tools.vercel.app/sitemap.xml
