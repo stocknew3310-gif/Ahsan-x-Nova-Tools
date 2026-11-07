@@ -1,0 +1,13 @@
+{
+  "name": "AHSAN × NOVA TOOLS",
+  "short_name": "AN Tools",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f0a2b",
+  "theme_color": "#7c3aed",
+  "icons": [
+    { "src": "https://i.ibb.co/mVVvwypv/550518.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "https://i.ibb.co/mVVvwypv/550518.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
